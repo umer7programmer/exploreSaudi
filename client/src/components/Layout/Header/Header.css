@@ -1,0 +1,12 @@
+#dark .text-color-header{
+  color: white;
+}
+#light .text-color-header{
+    color: black;
+}
+#dark .text-color-search{
+    color: white;
+  }
+  #light .text-color-search{
+      color: gray;
+  }

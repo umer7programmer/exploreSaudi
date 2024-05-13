@@ -1,0 +1,17 @@
+.user-dashboard-background{
+    background-image: url('/images/background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.travel-partner{
+    position: relative;
+    height: 125px;
+  
+}
+.travel-partner--text{
+    position: absolute;
+    bottom: 0px;
+
+    background-color: white;
+}

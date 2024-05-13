@@ -1,0 +1,7 @@
+.sign_up__image{
+     
+  background-image: url('./images/sign_up.webp');
+ background-size: cover; 
+  background-repeat: no-repeat;
+  background-position: center center;
+}

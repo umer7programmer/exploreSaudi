@@ -1,0 +1,10 @@
+.slick-slide > div{
+  margin: 0 10px;
+}
+
+#dark .all-headings-textColor{
+  color: white;
+}
+#light .all-headings-textColor{
+  color: #3A6A3B;
+}

@@ -1,0 +1,21 @@
+.box{
+    height: 560px;
+    position: relative;
+}
+.box img{
+    height: 100%;
+}
+.title{
+    position: absolute;
+    left:30px;
+    bottom:75px
+    
+}
+.box button{
+    position: absolute;
+    left:30px;
+    bottom:45px;
+    width: 130px;
+    background-color: rgba(255, 255, 255, 0.3);
+
+}
